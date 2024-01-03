@@ -1,1 +1,2 @@
 # Personal-Website
+Developed and designed a personal website utilizing HTML and CSS, showcasing a strong commitment to professional online presence. The website features a clean and modern design, harmonizing aesthetics with intuitive navigation. Employing a mobile-responsive layout, the site ensures accessibility across various devices, while the thoughtfully crafted user interface underscores attention to detail. Through this project, I demonstrated proficiency in front-end web development, emphasizing a visually appealing and user-friendly online representation.
